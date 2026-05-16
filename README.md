@@ -2,4 +2,4 @@
 
 Building Production-Ready LLM Applications and RAG Systems
 
-Code samples generated from the AI Ebook Studio.
+Code samples.
