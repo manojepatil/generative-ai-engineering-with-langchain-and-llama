@@ -1,2 +1,5 @@
-# generative-ai-engineering-with-langchain-and-llama
-Code samples for "Practical Generative AI Engineering with LangChain and LlamaIndex"
+# Practical Generative AI Engineering with LangChain and LlamaIndex
+
+Building Production-Ready LLM Applications and RAG Systems
+
+Code samples generated from the AI Ebook Studio.
